@@ -1,0 +1,32 @@
+{
+  "SOFT": {
+    "slope": 0.082,
+    "intercept": 0.0,
+    "cliff": 20,
+    "max_laps": 30
+  },
+  "MEDIUM": {
+    "slope": 0.048,
+    "intercept": 0.5,
+    "cliff": 30,
+    "max_laps": 45
+  },
+  "HARD": {
+    "slope": 0.028,
+    "intercept": 1.0,
+    "cliff": 42,
+    "max_laps": 60
+  },
+  "INTER": {
+    "slope": 0.04,
+    "intercept": -1.5,
+    "cliff": 25,
+    "max_laps": 50
+  },
+  "WET": {
+    "slope": 0.025,
+    "intercept": -4.0,
+    "cliff": 35,
+    "max_laps": 60
+  }
+}

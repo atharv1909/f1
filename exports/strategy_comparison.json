@@ -1,0 +1,58 @@
+[
+  {
+    "strategy": "1-stop M\u2192H",
+    "stops": [
+      24
+    ],
+    "compounds": [
+      "MEDIUM",
+      "HARD"
+    ],
+    "mean_time_s": 5350.72,
+    "std_time_s": 65.13,
+    "best_time_s": 5236.42
+  },
+  {
+    "strategy": "1-stop S\u2192H",
+    "stops": [
+      22
+    ],
+    "compounds": [
+      "SOFT",
+      "HARD"
+    ],
+    "mean_time_s": 5355.89,
+    "std_time_s": 63.83,
+    "best_time_s": 5244.17
+  },
+  {
+    "strategy": "2-stop S\u2192M\u2192H",
+    "stops": [
+      16,
+      33
+    ],
+    "compounds": [
+      "SOFT",
+      "MEDIUM",
+      "HARD"
+    ],
+    "mean_time_s": 5368.08,
+    "std_time_s": 67.48,
+    "best_time_s": 5254.31
+  },
+  {
+    "strategy": "2-stop S\u2192S\u2192H",
+    "stops": [
+      13,
+      28
+    ],
+    "compounds": [
+      "SOFT",
+      "SOFT",
+      "HARD"
+    ],
+    "mean_time_s": 5368.11,
+    "std_time_s": 64.03,
+    "best_time_s": 5256.41
+  }
+]
