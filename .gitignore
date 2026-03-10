@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.DS_Store
+ff1_cache/
+data/
+*.parquet
+node_modules/
+.venv/
+venv/
